@@ -6,20 +6,21 @@ is the only app you need to track your workouts.
 
 ## Features
 
-* Create your own exercises, routines and muscle groups or use our pre-made configurations
-* Easily view your workout history and share the results with your friends
-* Analyze your training volume with simple and intuitive charts and statistics
-* Explore your data by grouping the charts according to different factors such as muscle groups, exercises and other
-  criteria to gain even more insights on your training
-* View the history when adding a set to ensure progressive overload
-* No registration required. Your Apple ID is used for authentication
-* Automatic data syncing between your devices
+- Create your own exercises, routines and muscle groups
+- View your exercise history when adding a set to ensure progressive overload
+- Calculate your one-rep max estimates and see your progress
+- Easily view your workout history and share the results with your friends
+- Analyze your training volume with simple and intuitive charts and statistics
+- Explore the data by grouping it by different factors to gain even more insights on your training
+- No registration required
+- Automatic data syncing between your devices
 
 ## Coming soon
 
-* 1RM calculation and tracking
-* Exercise progress sharing
 * Apple Watch support
+* CSV export
+
+## [App Store](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
 
 ## [Support](support.md)
 
