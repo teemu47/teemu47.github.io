@@ -1,27 +1,42 @@
 # Gym Tracker Pro
 
-Gym Tracker Pro is the best way to log and track your workouts on an iPhone. It's simple, easy to use and has all the
-features you need to analyze your training for optimal results. Forget the notebooks and spreadsheets! Gym Tracker Pro
-is the only app you need to track your workouts.
+Forget the notebooks and spreadsheets! Gym Tracker Pro is the only tool you need for tracking your gym workouts. No
+registration required! Whether you are a beginner or an experienced lifter, Gym Tracker Pro is the best app to log and
+track your workouts. It's suitable from bodybuilding to powerlifting and everything in between.
 
-## Features
+FREE FOR A LIMITED TIME
+- No ads or in-app purchases
 
-- Create your own exercises, routines and muscle groups
-- View your exercise history when adding a set to ensure progressive overload
-- Calculate your one-rep max estimates and see your progress
-- Easily view your workout history and share the results with your friends
-- Analyze your training volume with simple and intuitive charts and statistics
-- Explore the data by grouping it by different factors to gain even more insights on your training
+NO UNNECESSARY CLUTTER
+- Clean, fast and simple user interface
+- Record your sets effortlessly and see the history at a glance
+
+GET STARTED QUICKLY
+- You have the option to use our initial data which includes 50 of the most common exercises with muscle group
+  associations
+
+KEEP YOUR EXERCISES ORGANIZED
+- Exercises can have muscle group association, favourite status and a category for additional grouping
+- Create your training program with the Routines functionality
+
+ENSURE BALANCED TRAINING
+- Analyse your training volume with our simple and intuitive charts and statistics
+- Keep track of which muscle groups, categories and exercises you have trained and when
+
+NO NEED TO TEST YOUR MAXES AND RISK INJURY
+- Use the one-rep max estimate to track your strength progress
+
+NO NEED TO TAKE SCREENSHOTS
+- Easily view your workout history and share the workouts with your friends
+
+LEAVE YOUR PHONE IN THE LOCKER ROOM
+- Clean and simple Apple Watch app
+
+APPLE ECOSYSTEM INTEGRATION
 - No registration required
-- Automatic data syncing between your devices
+- Automatic data syncing between your Apple devices
+- Only you can access your data
 
-## Coming soon
+---
 
-* Apple Watch support
-* CSV export
-
-## [App Store](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
-
-## [Support](support.md)
-
-## [Privacy Policy](privacy-policy.md)
+#### [App Store](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978) --- [Support](support.md) --- [Privacy Policy](privacy-policy.md)
