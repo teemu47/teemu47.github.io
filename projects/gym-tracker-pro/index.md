@@ -1,41 +1,56 @@
-# Gym Tracker Pro
+# Gym Tracker Pro 1.4.0
 
-Forget the notebooks and spreadsheets! Gym Tracker Pro is the only tool you need for tracking your gym workouts. No
-registration required! Whether you are a beginner or an experienced lifter, Gym Tracker Pro is the best app to log and
-track your workouts. It's suitable from bodybuilding to powerlifting and everything in between.
+Forget the notebooks and spreadsheets! Here's the only tool you need for logging and tracking resistance training. Apple
+Watch app included. No registration required.
 
-FREE FOR A LIMITED TIME
+Whether you are a beginner or a professional, Gym Tracker Pro is the only tool you need for logging and tracking your
+resistance training workouts.
+
+It's easy to use and has all the features you need to track your progress and volume, ensuring balanced and optimized
+training.
+
+It's suitable for all kinds of training programs, such as powerlifting, bodybuilding, weightlifting, crossfit, strength
+training, calisthenics and any other resistance training.
+
+FOREVER FREE FOR A LIMITED TIME ONLY
+- Download now and get all the features for free
 - No ads or in-app purchases
 
-NO UNNECESSARY CLUTTER
-- Clean, fast and simple user interface
-- Record your sets effortlessly and see the history at a glance
-
 GET STARTED QUICKLY
-- You have the option to use our initial data which includes 50 of the most common exercises with muscle group
-  associations
+- No registration required - Your Apple ID is your account
+- Our initial data includes the most common exercises and muscle groups
+- Add your own exercises and muscle groups easily
 
-KEEP YOUR EXERCISES ORGANIZED
-- Exercises can have muscle group association, favourite status and a category for additional grouping
-- Create your training program with the Routines functionality
-
-ENSURE BALANCED TRAINING
-- Analyse your training volume with our simple and intuitive charts and statistics
-- Keep track of which muscle groups, categories and exercises you have trained and when
-
-NO NEED TO TEST YOUR MAXES AND RISK INJURY
-- Use the one-rep max estimate to track your strength progress
-
-NO NEED TO TAKE SCREENSHOTS
-- Easily view your workout history and share the workouts with your friends
+NO UNNECESSARY CLUTTER
+- Record your sets effortlessly and see the history at a glance
 
 LEAVE YOUR PHONE IN THE LOCKER ROOM
 - Clean and simple Apple Watch app
 
-APPLE ECOSYSTEM INTEGRATION
-- No registration required
-- Automatic data syncing between your Apple devices
-- Only you can access your data
+KEEP YOUR EXERCISES ORGANIZED
+- Group your exercises by muscle group, favourite status or by a secondary category of your choice
+- Create your training program with the Routines functionality
+
+ENSURE BALANCED AND OPTIMIZED TRAINING
+- Analyze your training with our simple and intuitive charts and statistics
+- See your training volume grouped by muscle groups, exercises and other categories
+- This helps you to ensure balanced training and to optimize your volume to maximize progress
+
+NO NEED TO TEST YOUR MAXES AND RISK INJURY
+- Use the one-rep max estimate to track your strength progress
+
+ANALYZE THE WORKOUT DATA IN YOUR OWN TOOLS
+- Export your workout history as a CSV file anytime
+
+NO NEED TO TAKE SCREENSHOTS
+- Easily share the workouts with your friends and social media
+
+SECURE, PRIVATE AND RELIABLE
+- Only you can access your data - it's stored in your iCloud account
+- Automatic data syncing between your Apple devices using iCloud
+- No third party services or analytics
+
+Gym logging and tracking has never been easier. Download now and start tracking your workouts!
 
 ---
 
