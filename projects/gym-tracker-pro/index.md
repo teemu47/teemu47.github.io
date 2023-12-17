@@ -1,12 +1,12 @@
-# [Gym Tracker Pro 1.6.0](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
+# [Gym Tracker Pro 1.7.0](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
 
-Forget the notebooks and spreadsheets! Here's the only tool you need for logging and tracking your resistance training. Apple Watch app included. No registration required
+Forget the notebooks and spreadsheets! Here's the only tool you need for logging and tracking your gym sessions. Apple Watch app included. No registration required
 
-Never forget what exercises you did or what weight you used the last time. With Gym Tracker Pro you can easily log your workouts and track your progress. You can even keep track of which muscle groups you've trained and when to ensure balanced and training.
+Never forget which exercises you've done or what weight you used the last time. With Gym Tracker Pro you can easily log your workouts and track your progress. You can even keep track of which muscle groups you've trained to ensure balanced training.
 
 If you're an intermediate, advanced or even a professional athlete, this is the app for you. You know how to execute the exercises and can design your own training programs. You just need a tool to log and track your workouts without any unnecessary clutter and distractions.
 
-Gym Tracker Pro is suitable for all kinds of resistance training styles such as bodybuilding, strength training, crossfit, calisthenics etc.
+Gym Tracker Pro is suitable for all kinds of resistance training styles such as bodybuilding, strength training, crossfit, calisthenics etc. You can measure your sets in repetitions, time or distance.
 
 GET STARTED QUICKLY
 - No registration required - Your Apple ID is your account
@@ -47,13 +47,11 @@ ANALYZE THE WORKOUT DATA IN YOUR OWN TOOLS
 
 <video src="assets/previews/preview-6-7.mov" width="200" controls="true"></video>
 
-## What's new in version 1.6.0
+## What's new in version 1.7.0
 
-This update includes various usability improvements for both the IOS and WatchOS apps and also some new features:
+This update includes various usability improvements and new features:
 
-- Rest timer functionality
-- Monthly summaries in Home view
-- Synced preferences between all devices
+- Exercise can also be measured in time and in distance. This is useful for exercises such as planks, sled pushes etc.
 - Improved onboarding experience
 
 ---
