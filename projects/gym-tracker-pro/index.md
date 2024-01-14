@@ -1,58 +1,69 @@
-# [Gym Tracker Pro 1.7.0](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
+# [Gym Tracker Pro 2.0.0](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
 
-Forget the notebooks and spreadsheets! Here's the only tool you need for logging and tracking your gym sessions. Apple Watch app included. No registration required
+Clean and simple workout logger, tracker and planner for any kind of resistance training. Apple Watch app included. No registration required. Ad free.
 
-Never forget which exercises you've done or what weight you used the last time. With Gym Tracker Pro you can easily log your workouts and track your progress. You can even keep track of which muscle groups you've trained to ensure balanced training.
+Logging your workouts has never been easier. With Gym Tracker Pro you can easily log and plan your workouts and track your progress and volume. Muscle group tracking enables balanced and optimized training.
 
-If you're an intermediate, advanced or even a professional athlete, this is the app for you. You know how to execute the exercises and can design your own training programs. You just need a tool to log and track your workouts without any unnecessary clutter and distractions.
-
-Gym Tracker Pro is suitable for all kinds of resistance training styles such as bodybuilding, strength training, crossfit, calisthenics etc. You can measure your sets in repetitions, time or distance.
+Suitable for any kind of resistance training such as weight lifting, strength training, bodybuilding, powerlifting crossfit, calisthenics etc. You can measure your sets in repetitions, time or distance.
 
 GET STARTED QUICKLY
-- No registration required - Your Apple ID is your account
+- No registration required - Start lifting weights and using the app right away
 - Most common exercises and muscle groups can be added with a single tap
-- Quickly add your own exercises and muscle groups
+- Quickly create your own exercises and routines
 
-NO UNNECESSARY CLUTTER
-- Clean, fast and simple user interface
-- Record your sets effortlessly and see the history at a glance
+QUICK AND EASY WORKOUT LOGGING
+- Log your workouts effortlessly
+- See the weight & rep history and progress at a glance
+- Clean, fast and simple user interface unlike most workout apps
+- Exercise can also be measured in time and in distance. This is useful for exercises such as planks and sled pushes
+- Focus on your training
 
-LEAVE YOUR PHONE IN THE LOCKER ROOM
-- Clean and simple Apple Watch app included
-- Automatic data syncing between your Apple devices
-
-KEEP YOUR EXERCISES AND TRAINING PROGRAMS ORGANIZED
-- Group your exercises in different views by muscle group or by a secondary category of your choice
-- Create your training program with the Routines functionality
-- Manage multiple training programs easily
-
-NO NEED TO TEST YOUR MAXES AND RISK INJURY
-- Use the max effort functionality to calculate your one-rep max estimates and track your strength progress
-
-ENSURE BALANCED AND OPTIMIZED TRAINING
+KEEP TRACK OF YOUR VOLUME AND PROGRESS
 - Analyze your training with our simple and intuitive charts and statistics
 - View your training volume by muscle groups, exercises and other categories
 - Easily compare your training volume between different time periods
-- Track your strength progress and draw conclusions on the optimal training volume for you
+- Stay motivated
 
-FORGET THE SCREENSHOTS
+PLAN YOUR WORKOUTS IN ADVANCE
+- Create your training program with the Routines functionality
+- Easily find the exercises you want to do
+- Edit your routines on the fly
+- Manage multiple training programs easily
+- Stay focused on your fitness goals
+
+APPLE WATCH APP
+- Log and record your workouts with the watch app
+- Clean and simple user interface
+- Rich workout metrics
+- Sync workouts with Apple Health
+- Leave your phone in the locker room and focus on your training
+
+SHARE YOUR WORKOUTS
 - Easily share the workouts with your friends and social media
+- No need to take screenshots
+- Inspire others
 
 SECURE, PRIVATE AND RELIABLE
-- Only you can access your data - it's stored in your iCloud account
+- Only you can access your data
 - No third party services or analytics
+- Automatic backup and syncing between your Apple devices
+- No need to worry about your data being sold to third parties
 
 ANALYZE THE WORKOUT DATA IN YOUR OWN TOOLS
 - Export your workout history as a CSV file anytime
 
 <video src="assets/previews/preview-6-7.mov" width="200" controls="true"></video>
 
-## What's new in version 1.7.0
+## What's new in version 2.0.0
 
-This update includes various usability improvements and new features:
+WATCH APP CAN RECORD WORKOUTS
+- Stay focused on one app during recording and logging workouts
+- Sync with Apple Health
 
-- Exercise can also be measured in time and in distance. This is useful for exercises such as planks, sled pushes etc.
-- Improved onboarding experience
+USABILITY IMPROVEMENTS
+- You can now opt out of rest timer notifications
+- More quick actions in the press-and-hold menus
+
 
 ---
 
