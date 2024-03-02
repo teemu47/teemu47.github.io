@@ -1,10 +1,10 @@
-# [Gym Tracker Pro 2.1.0](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
+# [Gym Tracker Pro 2.2.0](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
 
-Clean and simple workout logger, planner and tracker for any kind of gym training. Apple Watch app included. No registration required. Ad free.
+Log, track and plan your workouts. Simple and clean interface. Apple Watch app included. No registration required. Ad free. No in-app purchases.
 
-Logging your workouts has never been easier. With Gym Tracker Pro you can easily log and plan your workouts and track your progress and volume. Muscle group volume tracking enables balanced and optimized training.
+With Gym Tracker Pro you can effortlessly plan, log and track your workouts. Ensure balanced training with muscle group tracking. Simple and easy to use without any unnecessary clutter.
 
-Suitable for any kind of resistance training, such as weight lifting, strength training, bodybuilding, powerlifting crossfit, calisthenics etc. You can measure your exercises in repetitions, time or distance which enables you to log any kind of training.
+You can measure your exercises in repetitions, time or distance which makes Gym Tracker Pro suitable for any kind of resistance training e.g. bodybuilding, powerlifting, strongman, crossfit and calisthenics.
 
 GET STARTED QUICKLY
 - No registration required - Start lifting weights and using the app right away
@@ -53,10 +53,11 @@ ANALYZE THE WORKOUT DATA IN YOUR OWN TOOLS
 
 <video src="assets/previews/preview-6-7.mov" width="200" controls="true"></video>
 
-## What's new in version 2.1.0
+## What's new in version 2.2.0
 
-Warmup sets. Now you can log your warmups without them affecting your statistics.
-E.g. with time or distance measured exercises, you can now log your warmup runs, cycling etc. the way YOU want.
+* New onboarding experience
+* Remember favourite toggles across devices
+* Usability improvements
 
 
 ---
