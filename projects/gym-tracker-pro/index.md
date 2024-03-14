@@ -1,4 +1,4 @@
-# [Gym Tracker Pro 2.2.0](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
+# [Gym Tracker Pro 2.3.0](https://apps.apple.com/fi/app/gym-tracker-pro/id1627284978)
 
 Log, track and plan your workouts. Simple and clean interface. Apple Watch app included. No registration required. Ad free. No in-app purchases.
 
@@ -23,6 +23,7 @@ KEEP TRACK OF YOUR VOLUME AND PROGRESS
 - Analyze your training with our simple and intuitive charts and statistics
 - View your training volume by muscle groups, exercises and other categories
 - Easily compare your training volume between different time periods
+- Track your progress with the one rep max estimator
 - Stay motivated
 
 PLAN YOUR WORKOUTS IN ADVANCE
@@ -53,11 +54,21 @@ ANALYZE THE WORKOUT DATA IN YOUR OWN TOOLS
 
 <video src="assets/previews/preview-6-7.mov" width="200" controls="true"></video>
 
-## What's new in version 2.2.0
+## What's new in version 2.3.0
 
-* New onboarding experience
-* Remember favourite toggles across devices
-* Usability improvements
+New Features
+- Set can be a dropset
+
+New Watch Complications
+- See statistics of your training at a glance on your watch face
+  - Current month set and workout count
+  - Last 30 day set and workout count
+
+New Watch App Features
+- View exercise and routine notes
+
+Bug Fixes
+- Show only working sets in workout metrics
 
 
 ---
